@@ -1,3 +1,4 @@
+![logo](https://github.com/taresh20/taresh20/blob/main/Picsart_24-05-11_17-30-17-525%5B1%5D.jpg)
 <h1 align="center">Hi 👋, I'm Taresh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
