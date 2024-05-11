@@ -13,10 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@taresh6362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@taresh6362" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taresh." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taresh." height="30" width="40" /></a>
-<a href="https://fb.com/taresh g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taresh g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/taresh-g-051ba2268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/taresh-g-051ba2268" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/manju.sadalagi.5?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manju.sadalagi.5?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/tareshgh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tareshgh20" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tgh motivational quotes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tgh motivational quotes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@tareshgh6362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@tareshgh6362" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
